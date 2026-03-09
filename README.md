@@ -14,8 +14,7 @@ Building modern, scalable and high-performance web applications.
 
 ## 🚀 About Me
 
-💻 Passionate **Full-Stack Web Developer** from Bangladesh  
-🌱 Currently learning **AWS & Cloud Infrastructure**  
+💻 Passionate **Full-Stack Web Developer** from Bangladesh   
 ⚡ Love building **modern, scalable, real-world applications**  
 🎯 Goal: Become a **top software engineer & open-source contributor**  
 
@@ -27,7 +26,6 @@ I enjoy solving real-world problems using **JavaScript ecosystems** and building
 
 - Advanced **React & Next.js**
 - **Node.js Backend Architecture**
-- **Cloud Deployment (AWS)**
 - **Full Stack Production Apps**
 
 ---
