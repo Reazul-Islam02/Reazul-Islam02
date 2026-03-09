@@ -1,54 +1,120 @@
-<h1 align="center">As-salamu alaykum(ٱلسَّلَامُ عَلَيْكُمْ) 👋, I'm ANM Reazul Islam</h1>
-<h3 align="center">A passionate Full-stack developer from Bangladesh </h3>
+<h1 align="center">Assalamu Alaikum 👋</h1>
 
+<h1 align="center">I'm ANM Reazul Islam</h1>
 
-### 🔭 I build things with JavaScript, React, and Node.js
+<h3 align="center">
+Full-Stack Web Developer | JavaScript | React | Node.js | Bangladesh
+</h3>
 
----
-
-## 👨‍💻 About Me  
-I'm a passionate full-stack developer who enjoys building modern, high-performance web applications. I love working with **JavaScript**, **React**, and **Node.js**, and I'm always exploring new tools to improve my workflow.  
-Currently, I'm focused on expanding my knowledge in **AWS** while working on exciting real-world projects. Feel free to reach out if you want to talk about **web development**, open-source, or cool tech ideas!
-
----
-
-## 🛠️ Tech Stack  
-
-### **Frontend**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss)
-
-### **Backend**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
-
-### **Tools & Others**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
+<p align="center">
+Building modern, scalable and high-performance web applications.
+</p>
 
 ---
 
-## 🌐 Connect With Me  
+## 🚀 About Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/yourhandle)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome)](https://yourportfolio.com/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:reaz4524@gmail.com)
+💻 Passionate **Full-Stack Web Developer** from Bangladesh  
+🌱 Currently learning **AWS & Cloud Infrastructure**  
+⚡ Love building **modern, scalable, real-world applications**  
+🎯 Goal: Become a **top software engineer & open-source contributor**  
+
+I enjoy solving real-world problems using **JavaScript ecosystems** and building **beautiful, fast and user-friendly web applications**.
 
 ---
 
-## 📊 GitHub Stats  
+## 🧠 Current Focus
 
-###
+- Advanced **React & Next.js**
+- **Node.js Backend Architecture**
+- **Cloud Deployment (AWS)**
+- **Full Stack Production Apps**
 
-<img src="https://raw.githubusercontent.com/Reazul-Islam02/Reazul-Islam02/output/snake.svg" alt="Snake animation" />
-
-###
 ---
 
-![Profile views](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
+# 🛠 Tech Stack
+
+### Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nextjs" />
+</p>
+
+### Backend
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
+
+### Tools
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux" />
+</p>
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Reazul-Islam02&show_icons=true&theme=tokyonight" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Reazul-Islam02&theme=tokyonight" />
+
+</p>
+
+---
+
+# 📈 Top Languages
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reazul-Islam02&layout=compact&theme=tokyonight" />
+
+</p>
+
+---
+
+# 🐍 Contribution Graph
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Reazul-Islam02/Reazul-Islam02/output/snake.svg" />
+
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://linkedin.com/in/yourprofile">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="https://twitter.com/yourhandle">
+<img src="https://skillicons.dev/icons?i=twitter" />
+</a>
+
+<a href="mailto:reaz4524@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+</p>
+
+---
+
+# 👀 Profile Views
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Reazul-Islam02&style=for-the-badge&color=blue"/>
+
+</p>
+
+---
+
+# ⭐ Fun Fact
+
+⚡ I believe **technology + creativity can solve real world problems.**
+
+---
