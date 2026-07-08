@@ -59,27 +59,8 @@ I enjoy solving real-world problems using **JavaScript ecosystems** and building
 
 </p>
 
----
 
-# 📈 Top Languages
 
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reazul-Islam02&layout=compact&theme=tokyonight" />
-
-</p>
-
----
-
-# 🐍 Contribution Graph
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Reazul-Islam02/output/snake.svg" />
-
-</p>
-
----
 
 # 🌐 Connect With Me
 
@@ -87,6 +68,9 @@ I enjoy solving real-world problems using **JavaScript ecosystems** and building
 
 <a href="https://www.linkedin.com/in/reazul-islam-b20a21265/">
 <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+<a href="https://discord.com/users/1116612919950594128">
+<img src="https://skillicons.dev/icons?i=discord" />
 </a>
 
 <a href="mailto:reaz4524@gmail.com">
