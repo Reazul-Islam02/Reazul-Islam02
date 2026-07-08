@@ -53,8 +53,6 @@ I enjoy solving real-world problems using **JavaScript ecosystems** and building
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Reazul-Islam02&show_icons=true&theme=tokyonight" />
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Reazul-Islam02&theme=tokyonight" />
 
 </p>
