@@ -99,20 +99,4 @@ I enjoy solving real-world problems using **JavaScript ecosystems** and building
 
 </p>
 
----
 
-# 👀 Profile Views
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Reazul-Islam02&style=for-the-badge&color=blue"/>
-
-</p>
-
----
-
-# ⭐ Fun Fact
-
-⚡ I believe **technology + creativity can solve real world problems.**
-
----
