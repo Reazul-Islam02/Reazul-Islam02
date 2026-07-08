@@ -75,7 +75,7 @@ I enjoy solving real-world problems using **JavaScript ecosystems** and building
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/Reazul-Islam02/Reazul-Islam02/output/snake.svg" />
+<img src="https://raw.githubusercontent.com/Reazul-Islam02/output/snake.svg" />
 
 </p>
 
