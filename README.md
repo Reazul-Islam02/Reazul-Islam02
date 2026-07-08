@@ -85,12 +85,8 @@ I enjoy solving real-world problems using **JavaScript ecosystems** and building
 
 <p align="center">
 
-<a href="https://linkedin.com/in/yourprofile">
+<a href="https://www.linkedin.com/in/reazul-islam-b20a21265/">
 <img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-
-<a href="https://twitter.com/yourhandle">
-<img src="https://skillicons.dev/icons?i=twitter" />
 </a>
 
 <a href="mailto:reaz4524@gmail.com">
